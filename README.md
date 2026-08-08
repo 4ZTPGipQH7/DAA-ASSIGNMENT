@@ -6,11 +6,13 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/4ZTPGipQH7/DAA-ASSIGNMENT/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/4ZTPGipQH7/DAA-ASSIGNMENT/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/4ZTPGipQH7/DAA-ASSIGNMENT/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/4ZTPGipQH7/DAA-ASSIGNMENT/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/4ZTPGipQH7/DAA-ASSIGNMENT/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/4ZTPGipQH7/DAA-ASSIGNMENT/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
